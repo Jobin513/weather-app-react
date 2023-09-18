@@ -1,13 +1,6 @@
 React Weather API Website
 (https://jobin513.github.io/weather-app-react/)
 
-
-Table of Contents
-About
-Features
-Technologies Used
-
-
 Welcome to the React Weather API Website! This web application allows you to search for detailed weather information for any city worldwide. It leverages a third-party weather API to fetch and display up-to-date weather data, providing you with accurate and real-time weather information.
 
 Features
