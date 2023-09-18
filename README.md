@@ -1,5 +1,5 @@
 React Weather API Website
-[Weather App Screenshot](https://jobin513.github.io/weather-app-react/)
+(https://jobin513.github.io/weather-app-react/)
 
 
 Table of Contents
